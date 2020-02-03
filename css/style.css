@@ -94,7 +94,7 @@ footer {
 	grid-template-columns: repeat(6, 2fr); 
 	grid-template-areas: 
 	"header header header header header header"
-	"box1 box1 box1 box2 box3 box3"
+	"box1 box1 box2 box2 box3 box3"
 	"content content content sidebar sidebar sidebar"
 	"footer footer footer footer footer footer"
 	;
